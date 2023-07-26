@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/erikajaneboado"><img src="https://api.daily.dev/devcards/b7c05c38a9ca4caf81225fe35fe269fb.png?r=jyh" width="400" alt="Erika Jane Boado's Dev Card"/></a>
+<a href="https://app.daily.dev/erikajaneboado"><img src="https://github.com/ejcboado/ejcboado/blob/master/devcard.svg" width="400" alt="Erika Jane Boado's Dev Card"/></a>
 <!--
 **ejcboado/ejcboado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
